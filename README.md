@@ -4,6 +4,7 @@ I’m Courtney Chen, a Master of Data Science student at UC Berkeley (go Bears!)
 
 ## 💼 Projects
 ![Auction](images/auction_simulator.png)
+### Python Auction Simulator
 
 ## 👩🏻‍💻 About Me
 
