@@ -6,8 +6,7 @@ I’m Courtney Chen, a Master of Data Science student at UC Berkeley (go Bears!)
 <img src="images/auction_simulator.png" alt="Auction" width="250" align="left" style="margin-right:20px;"/>
 
 ### Python Auction Simulator
-In this project, I developed an object-oriented ad auction simulator in Python to model a competitive second-price sealed-bid auction environment. Bidders use an epsilon-greedy strategy with exponential decay to balance exploration of user click behavior and exploitation to maximize profit. Each round simulates a user visit with secret click-through probabilities, where the highest bidder pays the second-highest bid and only the winner observes clicks. My strategy proved successful in competition by applying this reinforcement learning framework.
-
+In this project, I built an object-oriented ad auction simulator in Python to model a competitive second-price auction. Bidders follow an epsilon-greedy strategy with exponential decay to balance exploring click behavior and exploiting profitable users. Each round simulates a user visit with hidden click-through probabilities, where the highest bidder pays the second-highest bid and only the winner observes clicks. This reinforcement learning framework proved effective in competition.
 
 ## 👩🏻‍💻 About Me
 
