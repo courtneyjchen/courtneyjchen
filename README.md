@@ -1,6 +1,8 @@
 ## 👋 Hi there!
 
-- 💁🏻‍♀️ My name is Courtney Chen, and I'm a Master of Information and Data Science student at UC Berkeley (go bears!) with a passion for statistics, machine learning, neural networks, and LLMs. I enjoy building data-driven models, experimenting with algorithms, and applying quantitative methods to solve practical problems.
+💁🏻‍♀️ My name is Courtney Chen, and I'm a Master of Information and Data Science student at UC Berkeley (go bears!) with a passion for statistics, machine learning, neural networks, and LLMs.
+📝 I have a background in operations research and data science, with professional experience in strategic insights in the telecom industry.
+📊 I enjoy building data-driven models, experimenting with algorithms, and applying quantitative methods to solve practical problems.
 
 ## 💼 Projects
 
