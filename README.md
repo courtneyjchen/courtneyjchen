@@ -22,11 +22,11 @@ Using R, a team and I developed a logistic regression model to predict loan repa
 
 ## 👩🏻‍💼 About Me
 
-💻 I'm currently taking a GenAI course, where I am learning how to train, deploy, and use LLMs.
+📝 I'm currently taking a GenAI course, where I'm learning how to train, deploy, and use LLMs.
 
 ⚡️ My hobbies include being active, cooking, reading, and playing pickleball.
 
-📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/courtneyjchen/)
+📫 Reach me on LinkedIn: [My LinkedIn](https://www.linkedin.com/in/courtneyjchen/)
 
 <!--
 **courtneyjchen/courtneyjchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
