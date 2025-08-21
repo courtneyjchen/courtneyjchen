@@ -1,10 +1,10 @@
 ## 👋 Hi there!
 
-💁🏻‍♀️ I'm Courtney Chen, a Master of Data Science student at UC Berkeley (go bears!) with a focus on statistics, machine learning, & LLMs.
+I'm Courtney Chen, a Master of Data Science student at UC Berkeley (go Bears!) with a focus on statistics, machine learning, & LLMs.
 
-📝 I have a background in operations research and data science, with professional experience in strategic insights in the telecom industry.
+- 📝 I have a background in operations research and data science, with experience in strategic insights in the telecom industry.
 
-📊 I enjoy building data-driven models, experimenting with algorithms, and applying quantitative methods to solve practical problems.
+- 📊 I enjoy developing data-driven models, experimenting with algorithms, and applying quantitative methods to solve practical problems.
 
 ## 💼 Projects
 
