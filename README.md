@@ -19,6 +19,7 @@ Here, I used Neo4j to transform the Northwind Traders sales database into a prod
 Using R, a team and I developed a logistic regression model to predict loan repayment using borrower financial history. We paired this with a profit analysis to identify the optimal decision threshold that maximized expected profit while reducing risk. This approach significantly improved profitability, demonstrating how a data-driven approach to lending can reduce risk for a business.
 
 <br clear="left"/>
+
 ## 👩🏻‍💼 About Me
 
 💻 I'm currently taking a GenAI course, where I am learning how to train, deploy, and use LLMs.
