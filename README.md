@@ -13,7 +13,7 @@ In this project, I developed an object-oriented ad auction simulator in Python t
 #### [Warehouse Optimization and Recommendations with Neo4j](https://github.com/courtneyjchen/neo4j-product-clustering)
 Here, we used Neo4j to transform the Northwind Traders sales database into a product co-purchase graph, applying algorithms such as Louvain, Triangle Count, and PageRank to detect communities and identify influential products. These insights informed the optimal warehouse placement of related items and powered a recommender system that suggests highly co-purchased products.
 
-## 👩🏻‍💻 About Me
+## 👩🏻‍💼 About Me
 
 
 <!--
