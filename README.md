@@ -16,10 +16,12 @@ Here, I used Neo4j to transform the Northwind Traders sales database into a prod
 <img src="images/loan_repayment.jpg" alt="Loan" width="250" align="left" style="margin-right:20px;"/>
 
 #### [Minimizing Lending Risk through Predictive Modeling](https://github.com/courtneyjchen/r-loan-policy)
-Using R, I developed a logistic regression model to predict loan repayment using borrower financial history. I paired this with a profit analysis to identify the optimal decision threshold that maximized expected profit while reducing risk. This approach significantly improved profitability, demonstrating how a data-driven approach to lending can reduce risk for a bank.
+Using R, a team and I developed a logistic regression model to predict loan repayment using borrower financial history. We paired this with a profit analysis to identify the optimal decision threshold that maximized expected profit while reducing risk. This approach significantly improved profitability, demonstrating how a data-driven approach to lending can reduce risk for a business.
 
 ## 👩🏻‍💼 About Me
-
+💻 I'm currently taking a GenAI course, where I am learning how to train, deploy, and use LLMs.
+⚡️ My hobbies include being active, cooking, reading, and playing pickleball.
+📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/courtneyjchen/)
 
 <!--
 **courtneyjchen/courtneyjchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
