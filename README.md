@@ -3,8 +3,11 @@
 I’m Courtney Chen, a Master of Data Science student at UC Berkeley (go Bears!) with a focus on statistics, machine learning, and LLMs. With a background in operations research and experience in strategic insights in the telecom industry, I enjoy developing data-driven models, experimenting with algorithms, , and implementing optimization techniques in code to improve efficiency and decision-making.
 
 ## 💼 Projects
-![Auction](images/auction_simulator.png)
+<img src="images/auction_simulator.png" alt="Auction" width="250" align="left" style="margin-right:20px;"/>
+
 ### Python Auction Simulator
+In this project, I developed an object-oriented ad auction simulator in Python to model a competitive second-price sealed-bid auction environment. Bidders use an epsilon-greedy strategy with exponential decay to balance exploration of user click behavior and exploitation to maximize profit. Each round simulates a user visit with secret click-through probabilities, where the highest bidder pays the second-highest bid and only the winner observes clicks. The simulator was designed for competitive testing, and my strategy proved successful by applying a simple yet effective reinforcement learning framework.
+
 
 ## 👩🏻‍💻 About Me
 
