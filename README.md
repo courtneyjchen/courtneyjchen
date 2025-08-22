@@ -18,6 +18,8 @@ Here, I used Neo4j to transform the Northwind Traders sales database into a prod
 ### [Minimizing Lending Risk through Predictive Modeling](https://github.com/courtneyjchen/r-loan-policy)
 Using R, a team and I developed a logistic regression model to predict loan repayment using borrower financial history. We paired this with a profit analysis to identify the optimal decision threshold that maximized expected profit while reducing risk. This approach significantly improved profitability, demonstrating how a data-driven approach to lending can reduce risk for a business.
 
+<br clear="left"/>
+
 <img src="images/language_endangerment.png" alt="Loan" width="250" align="left" style="margin-right:20px;"/>
 
 ### [Predicting Language Endangerment with Machine Learning](https://github.com/courtneyjchen/python-language-endangerment)
