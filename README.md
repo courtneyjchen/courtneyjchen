@@ -1,6 +1,8 @@
-## 👋 Hi there!
+## 👋 Hi, I'm Courtney!
 
-I’m Courtney Chen, a Master of Data Science student at UC Berkeley (go Bears!) with a passion for statistics, machine learning, and LLMs. With a background in strategy, data science, and operations research, I enjoy developing data-driven models, experimenting with algorithms, and implementing optimization techniques in code to improve efficiency and decision-making.
+👩🏻‍💼 I’m a Master of Data Science student at UC Berkeley (go Bears!) with a passion for statistics, machine learning, and LLMs.
+💼 My background is in strategic insights, data science, and operations research.
+💡 I enjoy developing data-driven models, experimenting with algorithms, and implementing optimization techniques in code to improve efficiency and decision-making.
 
 ## 💻 Projects
 
@@ -26,12 +28,12 @@ Using R, a team and I developed a logistic regression model to predict loan repa
 
 <br clear="left"/>
 
-## 👩🏻‍💼 About Me
+## ⚡️ Fun Facts
 
 📝 I'm currently taking a GenAI course, where I'm learning how to train, deploy, and use LLMs.
 
 📖 I’m passionate about [data storytelling](https://docs.google.com/presentation/d/1jd0hS2ZM2GFfSQgVZKkYWkE8Ju6gczUd2knHMzNJ374/edit?usp=sharing), which I see as essential to bridging the "last mile" between insight & action.
 
-⚡️ My hobbies include working out, cooking, reading, and playing pickleball.
+🏓 My hobbies include working out, cooking, reading, and playing pickleball.
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/courtneyjchen/)
