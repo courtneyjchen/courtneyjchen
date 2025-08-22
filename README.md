@@ -14,7 +14,7 @@ In this project, I developed an object-oriented ad auction simulator in Python t
 ### [Neo4j-Based Warehouse Optimization and Recommendations](https://github.com/courtneyjchen/neo4j-product-clustering)
 Here, I used Neo4j to transform the Northwind Traders sales database into a product co-purchase graph, applying algorithms such as Louvain, Triangle Count, and PageRank to detect communities and identify influential products. These insights informed the optimal warehouse placement of related items and powered a recommender system that suggests highly co-purchased products.
 
-<img src="images/language_endangerment.png" alt="Loan" width="250" align="left" style="margin-right:20px;"/>
+<img src="images/language_endangerment.png" alt="Loan" height="180" width="250" align="left" style="margin-right:20px;"/>
 
 ### [Predicting Language Endangerment with Machine Learning](https://github.com/courtneyjchen/python-language-endangerment)
 This project leverages machine learning to predict language endangerment across five levels, from Not Endangered to Extinct. Using socio-economic and geographic features such as speaker counts, political recognition, and internet access, it applies multiple modeling techniques to reduce overfitting and surpass baseline performance,demonstrating how data science can support efforts in linguistic preservation.
