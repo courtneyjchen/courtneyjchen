@@ -1,12 +1,12 @@
-## 👋 Hi, I'm Courtney!
+## Hi, I'm Courtney!
 
-👩🏻‍💼 I’m a Master of Data Science student at UC Berkeley (go Bears!) with a passion for statistics, machine learning, and LLMs.
+👩🏻‍💼 I’m a Master of Data Science student at UC Berkeley (go Bears!) with a focus on statistics, machine learning, and LLMs.
 
 💼 My background is in strategic insights, data science, and operations research.
 
 💡 I enjoy developing ML models and implementing optimization techniques in code to improve efficiency & decision-making.
 
-## 💻 Projects
+## Projects
 
 <img src="images/auction_simulator.png" alt="Auction" width="250" align="left" style="margin-right:20px;"/>
 
@@ -30,12 +30,12 @@ Using R, a team and I developed a logistic regression model to predict loan repa
 
 <br clear="left"/>
 
-## ⚡️ Fun Facts
+## Fun Facts
 
 📝 I'm currently taking a GenAI course, where I'm learning how to train, deploy, and use LLMs.
 
 📖 I’m passionate about [data storytelling](https://docs.google.com/presentation/d/1jd0hS2ZM2GFfSQgVZKkYWkE8Ju6gczUd2knHMzNJ374/edit?usp=sharing), which I see as essential to bridging the "last mile" between insight & action.
 
-🏓 My hobbies include working out, cooking, reading, and playing pickleball.
+⚡️ My hobbies include working out, cooking, reading, and playing pickleball.
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/courtneyjchen/)
