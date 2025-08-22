@@ -4,7 +4,7 @@
 
 💼 My background is in strategic insights, data science, and operations research.
 
-💡 I enjoy developing data-driven models, experimenting with algorithms, and implementing optimization techniques in code to improve efficiency and decision-making.
+💡 I enjoy developing data-driven models and implementing optimization techniques in code to improve efficiency and decision-making.
 
 ## 💻 Projects
 
