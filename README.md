@@ -20,7 +20,9 @@ Using R, a team and I developed a logistic regression model to predict loan repa
 
 <img src="images/language_endangerment.png" alt="Loan" width="250" align="left" style="margin-right:20px;"/>
 
-### [Predicting Language Endangerment with ML](https://github.com/courtneyjchen/python-language-endangerment)
+<br clear="left"/>
+
+### [Predicting Language Endangerment with Machine Learning](https://github.com/courtneyjchen/python-language-endangerment)
 This project leverages machine learning to predict language endangerment across five levels, from Not Endangered to Extinct. Using socio-economic and geographic features such as speaker counts, political recognition, and internet access, it applies multiple modeling techniques to reduce overfitting and surpass baseline performance,demonstrating how data science can support efforts in linguistic preservation.
 
 <br clear="left"/>
