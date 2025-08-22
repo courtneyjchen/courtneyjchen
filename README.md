@@ -26,6 +26,6 @@ Using R, a team and I developed a logistic regression model to predict loan repa
 
 - My hobbies include working out, cooking, reading, and playing pickleball.
   
-- Beyond data science, I’m passionate about storytelling, which I see as essential to bridging the last mile between insight & action.
+- Beyond data science, I’m passionate about storytelling, which I see as essential to bridging the last mile between analysis and decision-making.
 
 - Reach me on [LinkedIn](https://www.linkedin.com/in/courtneyjchen/).
