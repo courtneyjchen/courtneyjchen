@@ -26,7 +26,7 @@ Using R, a team and I developed a logistic regression model to predict loan repa
 
 ⚡️ My hobbies include being working out, cooking, reading, and playing pickleball.
 
-🤝 Connect with me: [<img src="images/linkedin_logo.png" alt="LinkedIn" width="5">](https://www.linkedin.com/in/courtneyjchen/)
+🤝 Connect with me: [<img src="images/linkedin_logo.png" alt="LinkedIn" width="20">](https://www.linkedin.com/in/courtneyjchen/)
 
 <!--
 **courtneyjchen/courtneyjchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
