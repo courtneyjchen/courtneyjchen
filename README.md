@@ -2,7 +2,7 @@
 
 I’m Courtney Chen, a Master of Data Science student at UC Berkeley (go Bears!) with a passion for statistics, machine learning, and LLMs. With a background in operations research and experience in strategy in the telecommunications industry, I enjoy developing data-driven models, experimenting with algorithms, and implementing optimization techniques in code to improve efficiency and decision-making.
 
-## 💼 Projects
+## 💻 Projects
 <img src="images/auction_simulator.png" alt="Auction" width="250" align="left" style="margin-right:20px;"/>
 
 #### [Second-Price Ad Auction with Strategic Bidding](https://github.com/courtneyjchen/python-auction-simulator)
@@ -22,11 +22,11 @@ Using R, a team and I developed a logistic regression model to predict loan repa
 
 ## 👩🏻‍💼 About Me
 
-📝 I'm currently taking a GenAI course, where I'm learning how to train, deploy, and use LLMs.
+- I'm currently taking a GenAI course, where I'm learning how to train, deploy, and use LLMs.
 
-⚡️ My hobbies include working out, cooking, reading, and playing pickleball.
+- My hobbies include working out, cooking, reading, and playing pickleball.
 
-🤝 Reach me on [LinkedIn](https://www.linkedin.com/in/courtneyjchen/).
+- Reach me on [LinkedIn](https://www.linkedin.com/in/courtneyjchen/).
 
 <!--
 **courtneyjchen/courtneyjchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
