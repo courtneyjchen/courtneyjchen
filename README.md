@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I’m Courtney Chen, a Master of Data Science student at UC Berkeley (go Bears!) with a passion for statistics, machine learning, and LLMs. With a background in operations research and experience in strategy in the telecommunications industry, I enjoy developing data-driven models, experimenting with algorithms, and implementing optimization techniques in code to improve efficiency and decision-making.
+I’m Courtney Chen, a Master of Data Science student at UC Berkeley (go Bears!) with a passion for statistics, machine learning, and LLMs. With a background in strategy, data science, and operations research, I enjoy developing data-driven models, experimenting with algorithms, and implementing optimization techniques in code to improve efficiency and decision-making.
 
 ## 💻 Projects
 <img src="images/auction_simulator.png" alt="Auction" width="250" align="left" style="margin-right:20px;"/>
