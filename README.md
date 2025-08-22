@@ -17,7 +17,7 @@ Here, I used Neo4j to transform the Northwind Traders sales database into a prod
 <img src="images/language_endangerment.png" alt="Loan" height="200" width="250" align="left" style="margin-right:20px;"/>
 
 ### [Predicting Language Endangerment with Machine Learning](https://github.com/courtneyjchen/python-language-endangerment)
-This project leverages machine learning to predict language endangerment across five levels, from Not Endangered to Extinct. Using socio-economic and geographic features such as speaker counts, political recognition, and internet access, it applies models like gradient boost and ensemble methods to highlight how data science can support linguistic preservation.
+This project leverages ML to predict language endangerment across five levels, from Not Endangered to Extinct. Using socio-economic and geographic features such as speaker counts, political recognition, and internet access, it applies models (e.g., gradient boost) to highlight how data science can support linguistic preservation.
 
 <img src="images/loan_repayment.jpg" alt="Loan" width="250" align="left" style="margin-right:20px;"/>
 
