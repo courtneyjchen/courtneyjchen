@@ -1,6 +1,6 @@
 ## Hi, I'm Courtney!
 
-👩🏻‍💼 I’m a Master of Data Science student at UC Berkeley (go Bears!) with a focus on statistics, machine learning, and LLMs.
+👩🏻‍💼 I’m a Master of Data Science student at UC Berkeley (go Bears!) with a focus on machine learning, data visualization, and statistics.
 
 💼 My background is in strategic insights, data science, and operations research.
 
