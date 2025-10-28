@@ -55,4 +55,4 @@ Using R, a team and I developed a logistic regression model to predict loan repa
 
 📖 I’m passionate about [data storytelling](https://docs.google.com/presentation/d/1jd0hS2ZM2GFfSQgVZKkYWkE8Ju6gczUd2knHMzNJ374/edit?usp=sharing), which I see as essential to bridging the "last mile" between insight & action.
 
-⚡️ My hobbies include working out, cooking, reading, and playing pickleball.
+⚡️ My hobbies include working out, cooking, and reading.
