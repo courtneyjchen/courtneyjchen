@@ -51,8 +51,6 @@ Using R, a team and I developed a logistic regression model to predict loan repa
 
 ## Fun Facts
 
-💻 I'm currently taking a GenAI course, where I'm learning how to train, deploy, and use LLMs.
+💻 Currently completing graduate coursework in Generative AI, with hands-on experience in LLM fine-tuning, prompt optimization, evaluation frameworks, and scalable deployment.
 
-📖 I’m passionate about [data storytelling](https://docs.google.com/presentation/d/1jd0hS2ZM2GFfSQgVZKkYWkE8Ju6gczUd2knHMzNJ374/edit?usp=sharing), which I see as essential to bridging the "last mile" between insight & action.
-
-⚡️ My hobbies include working out, cooking, and reading.
+📖 Passionate about [data storytelling](https://docs.google.com/presentation/d/1jd0hS2ZM2GFfSQgVZKkYWkE8Ju6gczUd2knHMzNJ374/edit?usp=sharing) as the mechanism for translating analytical insights into executive-level decision making.
