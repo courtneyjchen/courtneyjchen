@@ -51,6 +51,6 @@ Using R, a team and I developed a logistic regression model to predict loan repa
 
 ## Fun Facts
 
-💻 Currently completing graduate coursework in Generative AI, with hands-on experience in LLM fine-tuning, prompt optimization, and scalable deployment.
+💻 Currently completing graduate coursework in Generative AI, focused on LLM fine-tuning, prompt optimization, and scalable deployment.
 
 📖 Passionate about [data storytelling](https://docs.google.com/presentation/d/1jd0hS2ZM2GFfSQgVZKkYWkE8Ju6gczUd2knHMzNJ374/edit?usp=sharing) as the mechanism for translating analytical insights into executive-level decision making.
