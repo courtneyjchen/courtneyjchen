@@ -2,7 +2,7 @@
 
 👩🏻‍💼 I’m a Master of Data Science student at UC Berkeley (go Bears!) with a focus on machine learning and statistics.
 
-💼 My background is in strategic insights, data science, and operations research.
+💼 My background is in strategy, data science, and operations research.
 
 💡 I enjoy developing ML models and implementing optimization techniques in code to improve efficiency & decision-making.
 
