@@ -43,6 +43,9 @@ This project leverages ML to predict language endangerment across five levels, f
 
 <img src="images/loan_repayment.jpg" alt="Loan" width="250" align="left" style="margin-right:20px;"/>
 
+### [Distributed Flight Delay Prediction with PySpark](https://github.com/courtneyjchen/pyspark-flight-delay-prediction)
+Using PySpark and Databricks, my team developed a distributed machine learning pipeline to predict flight delays using 31M+ commercial flight and NOAA weather records. We engineered scalable preprocessing workflows, custom distributed joins, and time-aware features, then applied sliding window cross-validation to evaluate multiple machine learning models in a distributed computing environment.
+
 ### [Minimizing Lending Risk through Predictive Modeling](https://github.com/courtneyjchen/r-loan-policy)
 Using R, a team and I developed a logistic regression model to predict loan repayment using borrower financial history. We paired this with a profit analysis to identify the optimal decision threshold that maximized expected profit while reducing risk. This approach significantly improved profitability, demonstrating how a data-driven approach to lending can reduce risk for a business.
 
