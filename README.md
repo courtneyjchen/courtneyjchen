@@ -28,7 +28,7 @@
 
 <img src="images/careassist_branding.png" alt="Auction" width="250" align="left" style="margin-right:20px;"/>
 
-### [CareAssist: An AI-Driven Case Prioritization Tool for Foster Care] (https://github.com/courtneyjchen/careassist-foster-care-ai)
+### [CareAssist: An AI-Driven Case Prioritization Tool for Foster Care](https://github.com/courtneyjchen/careassist-foster-care-ai)
 Using Angular, PostgreSQL, and machine learning, my team developed CareAssist, an AI-driven platform that identifies early warning signs of placement disruption. The system enables social workers to proactively prioritize at-risk cases, improving continuity of care through predictive analytics, role-based dashboards, and a unified case management platform.
 
 <img src="images/auction_simulator.png" alt="Auction" width="250" align="left" style="margin-right:20px;"/>
