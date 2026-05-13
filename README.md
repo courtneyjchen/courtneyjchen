@@ -36,15 +36,15 @@ In this project, I developed an object-oriented ad auction simulator in Python t
 ### [Neo4j-Based Warehouse Optimization and Recommendations](https://github.com/courtneyjchen/neo4j-product-clustering)
 Using Neo4j, I transformed the Northwind Traders sales database into a product co-purchase graph, applying algorithms such as Louvain, Triangle Count, and PageRank to detect communities and identify influential products. These insights informed the optimal warehouse placement of related items and a recommender system that suggests highly co-purchased products to users.
 
-<img src="images/language_endangerment.png" alt="Loan" height="200" width="250" align="left" style="margin-right:20px;"/>
-
-### [Predicting Language Endangerment with Machine Learning](https://github.com/courtneyjchen/python-language-endangerment)
-This project leverages ML to predict language endangerment across five levels, from Not Endangered to Extinct. Using socio-economic and geographic features such as speaker counts, political recognition, and internet access, it applies models, such as gradient boost, to highlight how data science can support linguistic preservation efforts.
-
 <img src="images/flight_delay.png" alt="Loan" width="250" align="left" style="margin-right:20px;"/>
 
 ### [Distributed Flight Delay Prediction with PySpark](https://github.com/courtneyjchen/pyspark-flight-delay-prediction)
 Using PySpark, my team built a distributed ML pipeline to predict flight delays using 31M+ aviation records. We engineered scalable preprocessing workflows, custom distributed joins, and time-aware features, then applied sliding window cross-validation to evaluate machine learning models in a distributed computing environment.
+
+<img src="images/language_endangerment.png" alt="Loan" height="200" width="250" align="left" style="margin-right:20px;"/>
+
+### [Predicting Language Endangerment with Machine Learning](https://github.com/courtneyjchen/python-language-endangerment)
+This project leverages ML to predict language endangerment across five levels, from Not Endangered to Extinct. Using socio-economic and geographic features such as speaker counts, political recognition, and internet access, it applies models, such as gradient boost, to highlight how data science can support linguistic preservation efforts.
 
 <img src="images/loan_repayment.jpg" alt="Loan" width="250" align="left" style="margin-right:20px;"/>
 
