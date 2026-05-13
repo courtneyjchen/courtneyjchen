@@ -44,7 +44,7 @@ This project leverages ML to predict language endangerment across five levels, f
 <img src="images/flight_delay.png" alt="Loan" width="250" align="left" style="margin-right:20px;"/>
 
 ### [Distributed Flight Delay Prediction with PySpark](https://github.com/courtneyjchen/pyspark-flight-delay-prediction)
-Using PySpark and Databricks, my team developed a distributed ML pipeline to predict flight delays using 31M+ commercial flight and NOAA weather records. We engineered scalable preprocessing workflows, custom distributed joins, and time-aware features, then applied sliding window cross-validation to evaluate multiple machine learning models in a distributed computing environment.
+Using PySpark, my team developed a distributed ML pipeline to predict flight delays using 31M+ commercial flight and weather records. We engineered scalable preprocessing workflows, custom distributed joins, and time-aware features, then applied sliding window cross-validation to evaluate machine learning models in a distributed computing environment.
 
 <img src="images/loan_repayment.jpg" alt="Loan" width="250" align="left" style="margin-right:20px;"/>
 
