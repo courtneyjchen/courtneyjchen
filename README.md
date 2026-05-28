@@ -1,10 +1,10 @@
 ## Hi, I'm Courtney!
 
-👩🏻‍💼 I’m a Master of Data Science student at UC Berkeley (go Bears!) with a focus on machine learning and statistics.
+👩🏻‍💼 Data scientist focused on applied ML, NLP, and data systems.
 
-💼 My background is in strategy, data science, and operations research.
+💼 Background in strategy, operations research, and scalable analytics.
 
-💡 I enjoy developing ML models and implementing optimization techniques in code to improve efficiency & decision-making.
+💡 Turning messy data into thoughtful tools for better decisions.
 
 ## Tech Stack
 
@@ -60,6 +60,6 @@ Using R, a team and I developed a logistic regression model to predict loan repa
 
 ## Fun Facts
 
-💻 Currently completing graduate coursework in GenAI, focused on LLM fine-tuning, prompt optimization, & scalable deployment.
+💻 Recently completed graduate work in GenAI, focused on LLM fine-tuning, prompt optimization, and scalable deployment.
 
-📖 Passionate about [data storytelling](https://docs.google.com/presentation/d/1jd0hS2ZM2GFfSQgVZKkYWkE8Ju6gczUd2knHMzNJ374/edit?usp=sharing) as the mechanism for translating analytical insights into executive-level decision making.
+📖 Passionate about [data storytelling](https://docs.google.com/presentation/d/1jd0hS2ZM2GFfSQgVZKkYWkE8Ju6gczUd2knHMzNJ374/edit?usp=sharing) as a bridge between numbers and decisions.
