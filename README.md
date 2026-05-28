@@ -31,11 +31,6 @@
 ### [CareAssist: An AI-Driven Case Prioritization Tool for Foster Care](https://github.com/courtneyjchen/careassist-foster-care-ai)
 Using Angular, PostgreSQL, and machine learning, my team built CareAssist, an AI-driven platform that identifies early warning signs of placement disruption. The system enables social workers to proactively prioritize at-risk cases, improving continuity of care through predictive analytics, role-based dashboards, & a unified case management platform.
 
-<img src="images/auction_simulator.png" alt="Auction" width="250" align="left" style="margin-right:20px;"/>
-
-### [Second-Price Auction Simulator with Strategic Bidding](https://github.com/courtneyjchen/python-auction-simulator)
-In this project, I developed an object-oriented ad auction simulator in Python to model a second-price auction environment. Bidders use an epsilon-greedy strategy with exponential decay to balance exploration of user click behavior and exploitation to maximize profit. My strategy proved successful in competition by applying this effective reinforcement learning framework.
-
 <img src="images/warehouse_optimization.jpg" alt="Warehouse" width="250" align="left" style="margin-right:20px;"/>
 
 ### [Neo4j-Based Warehouse Optimization and Recommendations](https://github.com/courtneyjchen/neo4j-product-clustering)
@@ -50,6 +45,11 @@ Using PySpark, my team built a distributed ML pipeline to predict flight delays 
 
 ### [Predicting Language Endangerment with Machine Learning](https://github.com/courtneyjchen/python-language-endangerment)
 This project leverages ML to predict language endangerment across five levels, from Not Endangered to Extinct. Using socio-economic and geographic features such as speaker counts, political recognition, and internet access, it applies models, such as gradient boost, to highlight how data science can support linguistic preservation efforts.
+
+<img src="images/auction_simulator.png" alt="Auction" width="250" align="left" style="margin-right:20px;"/>
+
+### [Second-Price Auction Simulator with Strategic Bidding](https://github.com/courtneyjchen/python-auction-simulator)
+In this project, I developed an object-oriented ad auction simulator in Python to model a second-price auction environment. Bidders use an epsilon-greedy strategy with exponential decay to balance exploration of user click behavior and exploitation to maximize profit. My strategy proved successful in competition by applying this effective reinforcement learning framework.
 
 <br clear="left"/>
 
